@@ -1,5 +1,6 @@
 {
     "name": "shane stover and matthew romeo test 1",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
